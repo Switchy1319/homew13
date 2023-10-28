@@ -1,0 +1,95 @@
+@media(width > 1440px){
+    .logo{
+        margin-right: 548px;
+    }
+    .burgermenu{
+        display: none;
+    }
+    .none{
+        display: block;
+    }
+    .x{
+        margin-right: 25px;
+        margin-top: -5px
+    }
+    header{
+        display: flex;
+    }
+    .pirveli{
+        display: flex;
+        background-image: url(src/Group\ 17.svg);
+    }
+    .order{
+        order: 2;
+    }
+    .Humanizing{
+        font-size: 72px;
+        margin-left: 165px;
+        text-align: left;
+        width: 540px;
+
+    }
+    .ojaxi{
+        position: absolute;
+        margin-top: 100px;
+        margin-left: 1x;
+    }
+    .Get{
+        text-align: left;
+        margin-left: 170px;
+        margin-bottom: 50px;
+    }
+    .view{
+        margin-left: 250px;
+    }
+    .we{
+        margin-left: -500px;
+        font-size: 72px;
+    }
+    .meore{
+        display: flex;
+        margin-top: 300px;
+    }
+    .grid2{
+        margin-top: 130px;
+    }
+    .gird3{
+        margin-top: 130px;
+    }
+    .meore{
+        display: none;
+    }
+    .ara{
+        display: block;
+    }
+    .mesame{
+        width: 1110px;
+        background-repeat: no-repeat;
+        background-position: top 0 right 0;
+        display: flex;
+        height: 250px;
+    }
+    .find{
+        font-size: 56px;
+        width: 450px;
+        text-align: left;
+        margin-left: 81px;
+        margin-top: 69px;
+    }
+    .how{
+        margin-top: 90px;
+        margin-left: 200px;
+    }
+    .ki{
+        display: none;
+    }
+    .ratooo{
+        display: block;
+    }
+    .insuree{
+        display: none;
+    }
+    .fc{
+        display: none;
+    }
+}

@@ -1,0 +1,184 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    display: grid;
+    justify-content: center;
+}
+.logo{
+    margin-right: 183px;
+    margin-top: 24px;
+    margin-left: 24px;
+    margin-bottom: 31px;
+}
+.burgermenu{
+    margin-top: 24px;
+    margin-right: 20px;
+    margin-bottom: 24px;
+}
+.pirveli{
+    background-color: #2d2641;
+}
+.Humanizing{
+    margin-top: 93px;
+    color: white;
+    text-align: center;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 48px;
+    letter-spacing: -0.667px;
+    width: 327px;
+    margin-left: 24px;
+
+}
+.Get{
+    width: 327px;
+    text-align: center;
+    color: white;
+    font-weight: 400;
+    line-height: 26px;
+    margin-top: 16px;
+    margin-left: 24px;
+}
+.view{
+    color: white;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    border: 1.5px solid white;
+    width: 146px;
+    height: 40px;
+    line-height: 50px;
+    margin-left: 115px;
+    margin-top: 32px;
+    margin-bottom: 93px;
+}
+.xazi{
+    height: 1px;
+    width: 150px;
+    margin-top: 140px;
+    background-color: black;
+    margin-left: 113px;
+    margin-bottom: 40px;
+}
+.we{
+    color: #2C2830;
+    text-align: center;
+    font-size: 48px;
+    font-synthesis: 48px;
+    letter-spacing: -0.667px;
+    line-height: 48px;
+    font-weight: 400;
+    margin-bottom: 80px;
+}
+.eleqtriki{
+    margin-left: 145px;
+    margin-bottom: 32px;
+}
+.eleqtro{
+    color: #2C2830;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 400;
+    letter-spacing: -0.389px;
+    margin-bottom: 16px;
+}
+.wyalkanali{
+    width: 327px;
+    color: #837D88;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    margin-left: 24px;
+    margin-bottom: 56px;
+}
+.wyalkanal{
+    width: 327px;
+    color: #837D88;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    margin-left: 24px;
+
+}
+.mesame{
+    background-color: #2d2641;
+    width: 327px;
+    background-image: url(src/Group\ 13.svg);
+    height: 344px;
+    margin-left: 24px;
+    margin-top: 140px;
+}
+.find{
+    width: 279px;
+    color: white;
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: -0.556px;
+    line-height: 40px;
+    text-align: center;
+    margin-left: 24px;
+    margin-top: 72px;
+}
+.how{
+    color: white;
+    font-size: 13px;
+    letter-spacing: 1.5px;
+    font-weight: 700;
+    text-align: center;
+    width: 160px;
+    height: 40px;
+    line-height: 30px;
+    border: 1.6px solid white;
+    margin-left: 83px;
+    margin-top: 40px;
+}
+footer{
+    background-image: url(src/Group\ 22.svg);
+    background-color: #fafafa;
+    display: grid;
+    margin-top: 180px;
+    background-repeat: no-repeat;
+}
+.insuree{
+    margin-top: 88px;
+    margin-left: 131px;
+    margin-bottom: 31px;
+}
+.fc{
+    margin-left: 115px;
+    margin-bottom: 40px;
+}
+.xazii{
+    width: 327px;
+    height: 1px;
+    background-color: #dadada;
+    margin-left: 23px;
+    margin-bottom: 40px;
+}
+.ki{
+    margin-left: 15px;
+}
+.pirveli{
+    background-image: url(src/Group\ 17.svg);
+    background-repeat: no-repeat;
+    background-position: top 220px left 0;
+
+}
+.meore{
+    background-image: url(src/Group\ 18\ Copy.svg);
+    background-repeat: no-repeat;
+    background-position: right 0 top -90px;
+}
+.none{
+    display: none;
+}
+.ara{
+    display: none;
+}
+.ratooo{
+    display: none;
+}
